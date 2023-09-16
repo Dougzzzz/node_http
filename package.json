@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Exercício para entendimento dos conceitos basicos do módulo http do node",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dougzzzz",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.6.0"
+  }
+}
